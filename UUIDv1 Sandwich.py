@@ -19,7 +19,7 @@ class BurpExtender(IBurpExtender, ITab):
         box_dt.setMinimumSize(Dimension(200, 100))
         box_dt.setMaximumSize(Dimension(1000,200))
         panel_detect = JPanel(FlowLayout())
-        self.comboBox = JComboBox(['                     DETECTED UUIDv1          '] + ['28bfc0ee-6125-11ef-a632-0242ac110019'])
+        self.comboBox = JComboBox(['                     DETECTED UUIDv1          '])
         self.comboBox.setEditable(True)
         addbutton = JButton("Add")
         addbutton.setMinimumSize(Dimension(100, 30))
