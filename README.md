@@ -16,3 +16,4 @@ This extension empowers security professionals and developers to thoroughly anal
 ## Documentation
 - [UUID Explain](https://www.uuidtools.com/uuid-versions-explained)
 - [0xLupin's Idea for an Attack](https://www.youtube.com/watch?v=Wgo3bGv6KqI)
+- [UUIDv1 Analyzing](https://realizesec.com/blog/sandwich-attacks-exploiting-uuid-v1)
